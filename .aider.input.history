@@ -1,0 +1,224 @@
+
+# 2025-11-25 16:33:56.789716
++Code the following app
++```
++Create a quiz that allows someone to find out which wizard house (Gryffindor, Hufflepuff, Ravenclaw, Slytherin) they are most similar to by answering 5 multiple-choice questions, and display the result with a cute cartoon vector image of that house’s mascot. Place the entire quiz on the home page. Allow the user to retake the quiz as many times as they want. Randomize the order of the answers each time the quiz loads. Write the questions and answers yourself.
++
++Use the following house traits and mascots:
++
++Gryffindor- courage, bravery, determination
++Mascot: lion (red & gold cute vector style)
++
++Hufflepuff- hard work, patience, loyalty
++Mascot: badger (yellow & black cute vector style)
++
++Ravenclaw- intelligence, learning, wit
++Mascot: eagle (blue & bronze cute vector style)
++
++Slytherin- ambition, cunning, resourcefulness
++Mascot: serpent (green & silver cute vector style)
++
++Questions (randomize answer order)
++
++1. How do you approach challenges?
++
++Face them bravely and act fast. → Gryffindor
++
++Stay patient and work through them steadily. → Hufflepuff
++
++Analyze the problem and plan smartly. → Ravenclaw
++
++Look for a clever strategy or advantage. → Slytherin
++
++2. What do people like most about you?
++
++Your boldness and strong will. → Gryffindor
++
++Your loyalty and dependability. → Hufflepuff
++
++Your creativity and intelligence. → Ravenclaw
++
++Your ambition and leadership energy. → Slytherin
++
++3. Which activity sounds fun?
++
++Adventuring or thrilling challenges. → Gryffindor
++
++Helping others or doing teamwork tasks. → Hufflepuff
++
++Reading, puzzles, or solving mysteries. → Ravenclaw
++
++Debating, planning, or competing to win. → Slytherin
++
++4. How do you react when someone is being treated unfairly?
++
++Step in immediately to defend them. → Gryffindor
++
++Support them quietly but consistently. → Hufflepuff
++
++Find the smartest, most effective solution. → Ravenclaw
++
++Shift the situation using strategy. → Slytherin
++
++5. What kind of success matters most to you?
++
++Doing what is right no matter the cost. → Gryffindor
++
++Staying loyal and true while helping others. → Hufflepuff
++
++Gaining knowledge and mastering skills. → Ravenclaw
++
++Achieving big goals and reaching high status. → Slytherin
++
++Scoring Rules
++
++Each answer = 1 point for the corresponding house.
++
++The house with the highest score is the result.
++
++If tied → use the answer from Question 5.
++
++If still tied → choose randomly between tied houses.
++
++Result Page
++
++Display:
++
++“You belong to: [HOUSE]!”
++
++A cute cartoon vector mascot image (lion, badger, eagle, or serpent)
++
++A personality description:
++
++Gryffindor:
++“You’re courageous, bold, and full of determination. You stand up for what’s right and inspire those around you.”
++
++Hufflepuff:
++“You’re loyal, patient, and hardworking. You value fairness, kindness, and staying true to the people you care about.”
++
++Ravenclaw:
++“You’re intelligent, curious, and creative. You love learning new things and seeing patterns others often miss.”
++
++Slytherin:
++“You’re ambitious, strategic, and resourceful. You set big goals and find clever ways to achieve them.”
++
++Buttons on Result Page
++
++Retake Quiz (restart from question 1)
++
++Share My Result (“I got [HOUSE]! Which wizard house do you belong to?”)
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-25 16:33:56.791143
++Code the following app
++```
++Create a quiz that allows someone to find out which wizard house (Gryffindor, Hufflepuff, Ravenclaw, Slytherin) they are most similar to by answering 5 multiple-choice questions, and display the result with a cute cartoon vector image of that house’s mascot. Place the entire quiz on the home page. Allow the user to retake the quiz as many times as they want. Randomize the order of the answers each time the quiz loads. Write the questions and answers yourself.
++
++Use the following house traits and mascots:
++
++Gryffindor- courage, bravery, determination
++Mascot: lion (red & gold cute vector style)
++
++Hufflepuff- hard work, patience, loyalty
++Mascot: badger (yellow & black cute vector style)
++
++Ravenclaw- intelligence, learning, wit
++Mascot: eagle (blue & bronze cute vector style)
++
++Slytherin- ambition, cunning, resourcefulness
++Mascot: serpent (green & silver cute vector style)
++
++Questions (randomize answer order)
++
++1. How do you approach challenges?
++
++Face them bravely and act fast. → Gryffindor
++
++Stay patient and work through them steadily. → Hufflepuff
++
++Analyze the problem and plan smartly. → Ravenclaw
++
++Look for a clever strategy or advantage. → Slytherin
++
++2. What do people like most about you?
++
++Your boldness and strong will. → Gryffindor
++
++Your loyalty and dependability. → Hufflepuff
++
++Your creativity and intelligence. → Ravenclaw
++
++Your ambition and leadership energy. → Slytherin
++
++3. Which activity sounds fun?
++
++Adventuring or thrilling challenges. → Gryffindor
++
++Helping others or doing teamwork tasks. → Hufflepuff
++
++Reading, puzzles, or solving mysteries. → Ravenclaw
++
++Debating, planning, or competing to win. → Slytherin
++
++4. How do you react when someone is being treated unfairly?
++
++Step in immediately to defend them. → Gryffindor
++
++Support them quietly but consistently. → Hufflepuff
++
++Find the smartest, most effective solution. → Ravenclaw
++
++Shift the situation using strategy. → Slytherin
++
++5. What kind of success matters most to you?
++
++Doing what is right no matter the cost. → Gryffindor
++
++Staying loyal and true while helping others. → Hufflepuff
++
++Gaining knowledge and mastering skills. → Ravenclaw
++
++Achieving big goals and reaching high status. → Slytherin
++
++Scoring Rules
++
++Each answer = 1 point for the corresponding house.
++
++The house with the highest score is the result.
++
++If tied → use the answer from Question 5.
++
++If still tied → choose randomly between tied houses.
++
++Result Page
++
++Display:
++
++“You belong to: [HOUSE]!”
++
++A cute cartoon vector mascot image (lion, badger, eagle, or serpent)
++
++A personality description:
++
++Gryffindor:
++“You’re courageous, bold, and full of determination. You stand up for what’s right and inspire those around you.”
++
++Hufflepuff:
++“You’re loyal, patient, and hardworking. You value fairness, kindness, and staying true to the people you care about.”
++
++Ravenclaw:
++“You’re intelligent, curious, and creative. You love learning new things and seeing patterns others often miss.”
++
++Slytherin:
++“You’re ambitious, strategic, and resourceful. You set big goals and find clever ways to achieve them.”
++
++Buttons on Result Page
++
++Retake Quiz (restart from question 1)
++
++Share My Result (“I got [HOUSE]! Which wizard house do you belong to?”)
++```
++
++Generate an app logo and update the app metadata title and description.
