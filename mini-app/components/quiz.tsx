@@ -75,6 +75,12 @@ const personality: Record<House, string> = {
   Slytherin:
     "You’re ambitious, strategic, and resourceful. You set big goals and find clever ways to achieve them.",
 };
+const houseImageMap: Record<House, string> = {
+  Gryffindor: "lion",
+  Hufflepuff: "badger",
+  Ravenclaw: "eagle",
+  Slytherin: "serpent",
+};
 
 function shuffle<T>(array: T[]): T[] {
   const copy = [...array];
@@ -163,7 +169,7 @@ export default function Quiz() {
       <div className="flex flex-col items-center gap-4">
         <h2 className="text-2xl font-bold">You belong to: {winner}!</h2>
         <img
-          src={`/${winner.toLowerCase()}.png`}
+          src={`/${houseImageMap[winner]}.png`}
           alt={winner}
           width={512}
           height={512}
