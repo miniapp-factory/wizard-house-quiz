@@ -222,3 +222,9 @@
 +```
 +
 +Generate an app logo and update the app metadata title and description.
+
+# 2025-11-25 17:04:08.161248
++A quiz that allows someone to find out which wizard house (Gryffindor, Hufflepuff, Ravenclaw, Slytherin) they are most similar to by answering 5 multiple choice questions and be able to share their result. Generate an image for each house mascot (lion, badger, eagle, serpent) in a cute cartoon vector style and display it on the result page. Allow the user to retake the quiz as many times as they want. Write the questions and answers yourself based on the traits of each house. Randomize the order of the answers for each question. Place the quiz on the home page.
+
+# 2025-11-25 17:04:08.161656
++A quiz that allows someone to find out which wizard house (Gryffindor, Hufflepuff, Ravenclaw, Slytherin) they are most similar to by answering 5 multiple choice questions and be able to share their result. Generate an image for each house mascot (lion, badger, eagle, serpent) in a cute cartoon vector style and display it on the result page. Allow the user to retake the quiz as many times as they want. Write the questions and answers yourself based on the traits of each house. Randomize the order of the answers for each question. Place the quiz on the home page.
